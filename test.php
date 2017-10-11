@@ -33,7 +33,21 @@
         
         
         <h1 class="text-center">Hello World</h1>
-        <i class="fa fa-facebook fa-5x" aria-hidden="true"></i>
+        
+        <form action="" method="POST" class="form-horizontal" role="form">
+                <div class="form-group">
+                    <legend>Form title</legend>
+                </div>
+        
+                
+        
+                <div class="form-group">
+                    <div class="col-sm-10 col-sm-offset-2">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+        </form>
+        
         <!-- jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Bootstrap JavaScript -->
