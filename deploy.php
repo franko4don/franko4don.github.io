@@ -12,7 +12,6 @@
         'whoami',
         'git fetch --all',
         'git checkout --force "origin/master"',
-        'git pull',
         'git status',
         'git submodule sync',
         'git submodule update',
